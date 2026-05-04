@@ -1,11 +1,67 @@
-<h1>Hi 👋, I'm </h1>
-<p>A passionate Java developer from Bangalore</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h1 align="center">Hi 👋, I'm Krish</h1>
+<h3 align="center">Java Backend Developer | Problem Solver | Building Scalable Systems</h3>
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 Information Science Graduate (2025)
+- 💻 Focused on **Java, Spring Boot, and Backend Development**
+- ⚡ Currently learning **System Design & Scalable Architecture**
+- 🎯 Goal: Crack a backend developer role ASAP
+
+---
+
+## 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,docker,linux,git" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Resume Analyzer (Spring Boot + AI)
+- Built REST APIs to analyze resumes
+- Integrated NLP logic
+- Improved parsing accuracy
+
+### 🔹 Employee Management System
+- CRUD operations using Spring Boot & MySQL
+- Implemented layered architecture
+
+### 🔹 SQL Practice Hub
+- Solved 100+ real-world queries
+- Focus on subqueries & joins
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 What Makes Me Different
+- Strong in **SQL problem solving**
+- Focus on **real-world backend projects**
+- Not just tutorials — I build & deploy
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="www.linkedin.com/in/
+hrithik-krishna-866210238
+">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
