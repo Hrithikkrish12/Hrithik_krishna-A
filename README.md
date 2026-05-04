@@ -26,20 +26,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Resume Analyzer (Spring Boot + AI)
-- Built REST APIs to analyze resumes
-- Integrated NLP logic
-- Improved parsing accuracy
 
-### 🔹 Employee Management System
-- CRUD operations using Spring Boot & MySQL
-- Implemented layered architecture
-
-### 🔹 SQL Practice Hub
-- Solved 100+ real-world queries
-- Focus on subqueries & joins
-
----
 
 ## 📊 GitHub Stats
 
